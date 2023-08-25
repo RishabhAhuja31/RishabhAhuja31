@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishabhofficial@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-pMnh6hzClIJFnDLGIsQAMNa_PnMVTCL/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-pMnh6hzClIJFnDLGIsQAMNa_PnMVTCL/view?usp=sharing">Resume</a>
 
 - 📝 Love contributing **to open-source projcts.**
 
